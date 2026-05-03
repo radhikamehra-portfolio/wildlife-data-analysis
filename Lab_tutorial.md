@@ -5,7 +5,9 @@
 ## 1. Upload Dataset to Linux from Local PC
 
 ```bash
-scp "D:\Niyati\MASTERS IN INFORMATION SYSTEM\System analytics\Project\archive\bonus\metadata_mammalia_global.csv\observations_mammalia_global.csv" USERNAME@ipaddress:/home/nshah37/
+scp "YOURDATASETSPATH\metadata_mammalia_global.csv" USERNAME@ipaddress:/home/nshah37/
+
+scp "YOURDATASETSPATH\observations_mammalia_global.csv" USERNAME@ipaddress:/home/nshah37/
 ```
 
 ---
